@@ -1,0 +1,23 @@
+.ima{
+    scrollbar-color: green red;
+    height: 400px;
+    overflow: auto;
+    
+    max-width: 400px;
+    width: 100%;
+    
+}
+.ma{
+    display: flex;
+    
+}
+.ima img{
+    margin: 10px 2px;
+
+}
+
+.ima p{
+    font-size: 15px ;
+    margin: 10px 2px;
+    color: #11526b;
+}
